@@ -1,2 +1,5 @@
-# react-tesseract-ui
-Simple tesseract ui example
+- 👋 Hi, I’m @iOrchK
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning about Advanced Next Js and Azure Kubernetes (AKS)
+- 💞️ I’m looking for a Stable and Home Office work
+- 📫 How to reach me: yahicimosclick9193@gmail.com
